@@ -1,0 +1,14 @@
+.link-muted { color: #aaa; } .link-muted:hover { color: #1266f1; }
+.campaign-form{
+    border: 1px solid green;
+}
+.campaign-label{
+    color:seagreen;
+}
+
+.partner-form{
+    border: 1px solid royalblue;
+}
+.partner-label{
+    color:royalblue;
+}
